@@ -1,0 +1,17 @@
+.Pokedox{
+ text-align: center;
+color:#58595B;
+
+}
+
+.Pokedox-cards{
+    display: flex;
+    justify-content: space-evenly;
+    flex-wrap: wrap;
+}
+.Pokedox-looser{
+    color:#ff0000;
+    }
+.Pokedox-winner{
+color: 	#00ff80;
+}
